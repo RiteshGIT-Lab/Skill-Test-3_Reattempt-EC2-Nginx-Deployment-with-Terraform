@@ -140,6 +140,37 @@ resource "aws_instance" "jenkinsmaster" {
 
 
 ## Terraform init
+<img width="1366" height="768" alt="Terraform init" src="https://github.com/user-attachments/assets/a2d48a3c-96ee-42c9-835a-925c920f9856" />
+<img width="1366" height="768" alt="Terraform init-2" src="https://github.com/user-attachments/assets/14e27620-e6e1-4238-8c37-4a64d9329014" />
+
+## Terraform plan
+<img width="1366" height="768" alt="Terraform plan" src="https://github.com/user-attachments/assets/22956818-befd-432f-b954-5fb60c28c032" />
+
+## Terraform apply
+<img width="1366" height="768" alt="Terraform apply" src="https://github.com/user-attachments/assets/960ed09f-f98a-4ae7-9466-c0077ecadab6" />
+
+## Output:
+<img width="1366" height="768" alt="Output" src="https://github.com/user-attachments/assets/cbe6d7b6-8ef5-4f01-a018-192d9906e1dd" />
+
+## Testing nginx server browser output
+<img width="1366" height="768" alt="Testing nginx server output" src="https://github.com/user-attachments/assets/4d3f6954-3e3f-4605-8102-23e1b1d26cdb" />
+
+## Destroying using terraform:
+
+## Terraform destroy
+<img width="1366" height="768" alt="Terraform destroy" src="https://github.com/user-attachments/assets/c2b4db2f-c3cf-48b0-abdf-0a8d9fd5a576" />
+
+## Remarks. I have tested all the services and connected to web server. I have deleted all the services using Terraform destroy to ensure all services stop inclued all required snapshots in readme.md..
+
+## Thank you herovired Team for great learning skill test.
+
+
+
+
+
+
+
+
 
 
 
